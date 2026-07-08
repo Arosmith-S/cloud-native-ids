@@ -62,6 +62,7 @@ Reduce false positive alerts in cloud security monitoring by 80%+ using adaptive
 
 ## Author
 Dafyd Paul
+Arosmith
 
 ## License
 MIT
