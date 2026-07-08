@@ -61,7 +61,6 @@ Reduce false positive alerts in cloud security monitoring by 80%+ using adaptive
 - Model Accuracy: [TBD]
 
 ## Author
-Dafyd Paul
 Arosmith
 
 ## License
